@@ -71,9 +71,11 @@ Machine-generated tokens, API keys, recovery codes और इसी तरह �
 
 Security vulnerabilities को public issues, pull requests या discussions के माध्यम से report न करें।
 
-यदि repository में GitHub private vulnerability reporting enabled है, तो उसी option का उपयोग करें।
+GitHub के private माध्यम से report करें:
 
-यदि private vulnerability reporting उपलब्ध नहीं है, तो exploit details को public न करें। Repository या maintainer के GitHub profile में दिए गए private contact method का उपयोग करें।
+1. प्रभावित repository खोलें, **Security** tab चुनें और **Report a vulnerability** पर क्लिक करें। Maintained 0disoft repositories में private vulnerability reporting enabled रहती है।
+2. यदि वह option उपलब्ध नहीं है, तो केवल private contact channel माँगने वाला issue खोलें। उस issue में technical details, exploit steps या affected versions न लिखें।
+3. यदि आप प्रभावित repository की पहचान नहीं कर पा रहे हैं, या repository private reports स्वीकार नहीं करती है, तो `0disoft/.github` पर वही **Security** tab प्रक्रिया अपनाएँ। यह default policy repository और account का fallback contact point है।
 
 Vulnerability report करते समय ये जानकारी शामिल करें:
 

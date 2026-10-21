@@ -71,9 +71,11 @@ For machine-generated tokens, API keys, recovery codes, and similar secrets:
 
 Please do not report security vulnerabilities through public issues, pull requests, or discussions.
 
-If the repository has GitHub private vulnerability reporting enabled, use that option.
+Report privately through GitHub:
 
-If private vulnerability reporting is not available, do not publish exploit details publicly. Use a private maintainer contact method listed in the repository or the maintainer's GitHub profile.
+1. Open the affected repository, select the **Security** tab, and choose **Report a vulnerability**. Private vulnerability reporting is enabled on maintained 0disoft repositories.
+2. If that option is not available, open an issue that only asks for a private contact channel. Do not include technical details, exploit steps, or affected versions in that issue.
+3. If you cannot identify the affected repository, or the repository does not accept private reports, use the same **Security** tab flow on `0disoft/.github`. It is the default policy repository and the fallback contact point for the account.
 
 When reporting a vulnerability, include:
 
