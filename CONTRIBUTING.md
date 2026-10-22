@@ -6,6 +6,8 @@ Thanks for considering a contribution to a 0disoft project.
 
 This is the default contribution guide for repositories owned by 0disoft. If a repository has its own `CONTRIBUTING.md`, the repository-specific guide takes precedence.
 
+See [Governance](./GOVERNANCE.md) for maintainer roles and decision-making.
+
 ## Before Contributing
 
 Please check the repository README, existing issues, and existing pull requests before opening a new issue or pull request.

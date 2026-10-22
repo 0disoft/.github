@@ -73,9 +73,9 @@ Ne signalez pas les vulnérabilités de sécurité via des issues, pull requests
 
 Signalez-les de manière privée via GitHub :
 
-1. Ouvrez le dépôt concerné, sélectionnez l’onglet **Security** et choisissez **Report a vulnerability**. Le signalement privé de vulnérabilités est activé sur les dépôts 0disoft maintenus.
-2. Si cette option n’est pas disponible, ouvrez une issue qui demande uniquement un canal de contact privé. N’y incluez ni détails techniques, ni étapes d’exploitation, ni versions concernées.
-3. Si vous ne pouvez pas identifier le dépôt concerné, ou si le dépôt n’accepte pas les signalements privés, utilisez le même parcours de l’onglet **Security** sur `0disoft/.github`. C’est le dépôt des politiques par défaut et le point de contact de repli du compte.
+1. Ouvrez le dépôt concerné, sélectionnez l’onglet **Security** et choisissez **Report a vulnerability**.
+2. Si cette option n’est pas disponible ou si vous ne pouvez pas identifier le dépôt concerné, utilisez le [formulaire de signalement privé de `0disoft/.github`](https://github.com/0disoft/.github/security/advisories/new). C’est le dépôt des politiques par défaut et le point de contact de repli du compte.
+3. Seulement si les deux canaux de signalement privé sont indisponibles, ouvrez une issue qui demande uniquement un canal de contact privé. N’y incluez ni détails techniques, ni étapes d’exploitation, ni versions concernées.
 
 Lorsque vous signalez une vulnérabilité, incluez :
 

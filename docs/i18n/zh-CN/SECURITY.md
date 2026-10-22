@@ -73,9 +73,9 @@
 
 请通过 GitHub 的私密渠道报告：
 
-1. 打开受影响的仓库，进入 **Security** 标签页，选择 **Report a vulnerability**。维护中的 0disoft 仓库已启用私有漏洞报告。
-2. 如果该选项不可用，请创建一个仅请求私密联系方式的 issue，且不要在该 issue 中写入技术细节、漏洞利用步骤或受影响版本。
-3. 如果无法确定受影响的仓库，或该仓库不接受私密报告，请在 `0disoft/.github` 上使用相同的 **Security** 标签页流程。该仓库是默认策略仓库，也是本账号的备用联系渠道。
+1. 打开受影响的仓库，进入 **Security** 标签页，选择 **Report a vulnerability**。
+2. 如果该选项不可用，或无法确定受影响的仓库，请使用 [`0disoft/.github` 的私密漏洞报告表单](https://github.com/0disoft/.github/security/advisories/new)。该仓库是默认策略仓库，也是本账号的备用联系渠道。
+3. 仅当两个私密报告渠道都不可用时，才创建一个仅请求私密联系方式的 issue。不要在该 issue 中写入技术细节、漏洞利用步骤或受影响版本。
 
 报告漏洞时，请包含以下信息：
 

@@ -73,9 +73,9 @@ Please do not report security vulnerabilities through public issues, pull reques
 
 Report privately through GitHub:
 
-1. Open the affected repository, select the **Security** tab, and choose **Report a vulnerability**. Private vulnerability reporting is enabled on maintained 0disoft repositories.
-2. If that option is not available, open an issue that only asks for a private contact channel. Do not include technical details, exploit steps, or affected versions in that issue.
-3. If you cannot identify the affected repository, or the repository does not accept private reports, use the same **Security** tab flow on `0disoft/.github`. It is the default policy repository and the fallback contact point for the account.
+1. Open the affected repository, select the **Security** tab, and choose **Report a vulnerability**.
+2. If that option is not available, or you cannot identify the affected repository, use the [private reporting form on `0disoft/.github`](https://github.com/0disoft/.github/security/advisories/new). It is the default policy repository and the fallback contact point for the account.
+3. Only if neither private reporting channel is available, open an issue that only asks for a private contact channel. Do not include technical details, exploit steps, or affected versions in that issue.
 
 When reporting a vulnerability, include:
 

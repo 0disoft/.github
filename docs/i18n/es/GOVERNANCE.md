@@ -4,6 +4,8 @@ Idioma: [English](../../../GOVERNANCE.md) | [한국어](../ko/GOVERNANCE.md) | E
 
 Este es el modelo de gobernanza predeterminado para los repositorios propiedad de 0disoft. Si un repositorio tiene su propio `GOVERNANCE.md`, tendrá prioridad el modelo de gobernanza específico de ese repositorio.
 
+GitHub no hereda este archivo automáticamente. La guía de contribución predeterminada enlaza aquí para que los colaboradores puedan encontrar la política compartida.
+
 ## Modelo
 
 Salvo que se indique lo contrario, los proyectos están dirigidos por sus mantenedores.

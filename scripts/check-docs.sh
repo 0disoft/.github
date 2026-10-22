@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Keep the default community health files consistent across languages:
 # heading shape parity, one language bar in the same order on every document,
-# and no broken relative links.
+# no broken relative links, and the GitHub-required funding file location.
 set -euo pipefail
 
 root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
@@ -12,6 +12,15 @@ fail() {
   printf 'FAIL %s\n' "$1" >&2
   failures=$((failures + 1))
 }
+
+if [ ! -f "$root/.github/FUNDING.yml" ]; then
+  fail "missing .github/FUNDING.yml"
+fi
+for misplaced in "$root/FUNDING.yml" "$root/docs/FUNDING.yml"; do
+  if [ -e "$misplaced" ]; then
+    fail "FUNDING.yml must be stored in .github/: ${misplaced#"$root"/}"
+  fi
+done
 
 # Compare heading levels only: translated heading text differs by design, the
 # document structure must not.

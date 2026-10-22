@@ -73,9 +73,9 @@ Security vulnerabilities को public issues, pull requests या discussions 
 
 GitHub के private माध्यम से report करें:
 
-1. प्रभावित repository खोलें, **Security** tab चुनें और **Report a vulnerability** पर क्लिक करें। Maintained 0disoft repositories में private vulnerability reporting enabled रहती है।
-2. यदि वह option उपलब्ध नहीं है, तो केवल private contact channel माँगने वाला issue खोलें। उस issue में technical details, exploit steps या affected versions न लिखें।
-3. यदि आप प्रभावित repository की पहचान नहीं कर पा रहे हैं, या repository private reports स्वीकार नहीं करती है, तो `0disoft/.github` पर वही **Security** tab प्रक्रिया अपनाएँ। यह default policy repository और account का fallback contact point है।
+1. प्रभावित repository खोलें, **Security** tab चुनें और **Report a vulnerability** पर क्लिक करें।
+2. यदि वह option उपलब्ध नहीं है या आप प्रभावित repository की पहचान नहीं कर पा रहे हैं, तो [`0disoft/.github` के private reporting form](https://github.com/0disoft/.github/security/advisories/new) का उपयोग करें। यह default policy repository और account का fallback contact point है।
+3. केवल जब दोनों private reporting channels उपलब्ध न हों, तब private contact channel माँगने वाला issue खोलें। उस issue में technical details, exploit steps या affected versions न लिखें।
 
 Vulnerability report करते समय ये जानकारी शामिल करें:
 

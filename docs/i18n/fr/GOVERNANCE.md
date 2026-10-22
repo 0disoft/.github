@@ -4,6 +4,8 @@ Langue : [English](../../../GOVERNANCE.md) | [한국어](../ko/GOVERNANCE.md) | 
 
 Ce document présente le modèle de gouvernance par défaut des dépôts appartenant à 0disoft. Si un dépôt possède son propre `GOVERNANCE.md`, le modèle de gouvernance propre à ce dépôt prévaut.
 
+GitHub n’hérite pas automatiquement de ce fichier. Le guide de contribution par défaut y renvoie pour permettre aux contributeurs de trouver la politique commune.
+
 ## Modèle
 
 Sauf indication contraire, les projets sont dirigés par leurs mainteneurs.

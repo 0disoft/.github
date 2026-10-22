@@ -6,6 +6,8 @@ Gracias por considerar contribuir a un proyecto de 0disoft.
 
 Esta es la guía de contribución predeterminada para los repositorios propiedad de 0disoft. Si un repositorio tiene su propio `CONTRIBUTING.md`, tendrá prioridad la guía específica de ese repositorio.
 
+Consulta [Gobernanza](./GOVERNANCE.md) para conocer las funciones de los mantenedores y cómo se toman las decisiones.
+
 ## Antes de contribuir
 
 Antes de abrir un nuevo issue o pull request, revisa primero el README del repositorio, los issues existentes y los pull requests ya abiertos.

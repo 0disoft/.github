@@ -4,6 +4,8 @@ Language: English | [한국어](./docs/i18n/ko/GOVERNANCE.md) | [Español](./doc
 
 This is the default governance model for repositories owned by 0disoft. If a repository has its own `GOVERNANCE.md`, the repository-specific governance model takes precedence.
 
+GitHub does not automatically inherit this file. The default contribution guide links here so contributors can find the shared policy.
+
 ## Model
 
 Projects are maintainer-led unless stated otherwise.

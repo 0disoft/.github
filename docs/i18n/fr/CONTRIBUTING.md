@@ -6,6 +6,8 @@ Merci d’envisager de contribuer à un projet 0disoft.
 
 Ce document constitue le guide de contribution par défaut des dépôts appartenant à 0disoft. Si un dépôt possède son propre `CONTRIBUTING.md`, le guide propre à ce dépôt prévaut.
 
+Consultez la [gouvernance](./GOVERNANCE.md) pour connaître les rôles des mainteneurs et le processus de décision.
+
 ## Avant de contribuer
 
 Avant d’ouvrir une nouvelle issue ou une pull request, consultez d’abord le README du dépôt, les issues existantes et les pull requests déjà ouvertes.

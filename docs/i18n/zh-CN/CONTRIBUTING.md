@@ -6,6 +6,8 @@
 
 这是适用于 0disoft 所有仓库的默认贡献指南。如果某个仓库有自己的 `CONTRIBUTING.md`，则以该仓库的专用贡献指南为准。
 
+有关维护者的职责和决策方式，请参阅[治理模式](./GOVERNANCE.md)。
+
 ## 贡献之前
 
 在新建 issue 或 pull request 之前，请先查看仓库的 README、现有 issues 和已打开的 pull requests。

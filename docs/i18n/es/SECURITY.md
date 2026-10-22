@@ -73,9 +73,9 @@ No reportes vulnerabilidades de seguridad mediante issues, pull requests o discu
 
 Reporta de forma privada a través de GitHub:
 
-1. Abre el repositorio afectado, selecciona la pestaña **Security** y elige **Report a vulnerability**. El reporte privado de vulnerabilidades está habilitado en los repositorios de 0disoft mantenidos.
-2. Si esa opción no está disponible, abre un issue que solo solicite un canal de contacto privado. No incluyas detalles técnicos, pasos de explotación ni versiones afectadas en ese issue.
-3. Si no puedes identificar el repositorio afectado, o el repositorio no acepta reportes privados, usa el mismo flujo de la pestaña **Security** en `0disoft/.github`. Es el repositorio de políticas predeterminadas y el punto de contacto alternativo de la cuenta.
+1. Abre el repositorio afectado, selecciona la pestaña **Security** y elige **Report a vulnerability**.
+2. Si esa opción no está disponible o no puedes identificar el repositorio afectado, usa el [formulario de reporte privado de `0disoft/.github`](https://github.com/0disoft/.github/security/advisories/new). Es el repositorio de políticas predeterminadas y el punto de contacto alternativo de la cuenta.
+3. Solo si ninguno de los dos canales de reporte privado está disponible, abre un issue que solo solicite un canal de contacto privado. No incluyas detalles técnicos, pasos de explotación ni versiones afectadas en ese issue.
 
 Al reportar una vulnerabilidad, incluye:
 
