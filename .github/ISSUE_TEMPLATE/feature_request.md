@@ -2,8 +2,6 @@
 name: Feature request
 about: Suggest a capability or an improvement
 title: ""
-labels: ""
-assignees: ""
 ---
 
 ## Problem

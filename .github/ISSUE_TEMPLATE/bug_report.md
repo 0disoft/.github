@@ -2,8 +2,6 @@
 name: Bug report
 about: Report behavior that does not match the documentation
 title: ""
-labels: ""
-assignees: ""
 ---
 
 <!--
