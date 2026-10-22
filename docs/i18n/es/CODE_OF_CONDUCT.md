@@ -1,6 +1,6 @@
 # Código de conducta
 
-Idioma: [English](../../../CODE_OF_CONDUCT.md) | [한국어](../ko/CODE_OF_CONDUCT.md) | Español | [简体中文](../zh-CN/CODE_OF_CONDUCT.md) | [हिन्दी](../hi/CODE_OF_CONDUCT.md) | [Français](../fr/CODE_OF_CONDUCT.md)
+Idioma: [English](../../../CODE_OF_CONDUCT.md) | [한국어](../ko/CODE_OF_CONDUCT.md) | Español | [Français](../fr/CODE_OF_CONDUCT.md) | [हिन्दी](../hi/CODE_OF_CONDUCT.md) | [简体中文](../zh-CN/CODE_OF_CONDUCT.md)
 
 Este es el código de conducta predeterminado para los repositorios propiedad de 0disoft. Si un repositorio tiene su propio `CODE_OF_CONDUCT.md`, tendrá prioridad el código de conducta específico de ese repositorio.
 
@@ -33,7 +33,11 @@ Este código de conducta se aplica a las conversaciones del repositorio, issues,
 
 Los mantenedores pueden eliminar contenido, cerrar issues, rechazar pull requests, limitar la participación o bloquear usuarios cuando una conducta perjudique al proyecto o a su comunidad.
 
-Las denuncias deben enviarse al mantenedor del repositorio. Si el repositorio ofrece un canal privado para reportes, utiliza ese canal.
+Reporta los problemas de conducta de forma privada:
+
+1. Si el comportamiento también infringe las Políticas de uso aceptable de GitHub, repórtalo a GitHub con el formulario Report abuse en https://github.com/contact/report-abuse. GitHub gestiona ese canal, así que la denuncia no depende del mantenedor.
+2. En los demás casos, abre un issue que solo pida un canal privado de contacto para una denuncia de conducta. No describas el incidente, a las personas implicadas ni ninguna prueba en ese issue.
+3. Si la denuncia se refiere al mantenedor, usa el formulario Report abuse para que la denuncia no la gestione la persona implicada.
 
 Las denuncias se revisarán de buena fe. Los mantenedores darán prioridad a la seguridad y la privacidad de las personas involucradas.
 

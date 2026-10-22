@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Language: English | [한국어](./docs/i18n/ko/CODE_OF_CONDUCT.md) | [Español](./docs/i18n/es/CODE_OF_CONDUCT.md) | [简体中文](./docs/i18n/zh-CN/CODE_OF_CONDUCT.md) | [हिन्दी](./docs/i18n/hi/CODE_OF_CONDUCT.md) | [Français](./docs/i18n/fr/CODE_OF_CONDUCT.md)
+Language: English | [한국어](./docs/i18n/ko/CODE_OF_CONDUCT.md) | [Español](./docs/i18n/es/CODE_OF_CONDUCT.md) | [Français](./docs/i18n/fr/CODE_OF_CONDUCT.md) | [हिन्दी](./docs/i18n/hi/CODE_OF_CONDUCT.md) | [简体中文](./docs/i18n/zh-CN/CODE_OF_CONDUCT.md)
 
 This is the default code of conduct for repositories owned by 0disoft. If a repository has its own `CODE_OF_CONDUCT.md`, the repository-specific code of conduct takes precedence.
 
@@ -33,7 +33,11 @@ This code of conduct applies to repository discussions, issues, pull requests, p
 
 Maintainers may remove content, close issues, reject pull requests, limit participation, or block users when behavior harms the project or its community.
 
-Reports should be sent to the repository maintainer. If the repository provides a private reporting channel, use that channel.
+Report conduct problems privately:
+
+1. If the behavior also violates GitHub's Acceptable Use Policies, report it to GitHub with the Report abuse form at https://github.com/contact/report-abuse. GitHub handles that channel, so the report does not depend on the maintainer.
+2. Otherwise open an issue that only asks for a private contact channel for a conduct report. Do not describe the incident, the people involved, or any evidence in that issue.
+3. If the report concerns the maintainer, use the Report abuse form so the report is not handled by the person it is about.
 
 Reports will be reviewed in good faith. Maintainers will prioritize the safety and privacy of the people involved.
 

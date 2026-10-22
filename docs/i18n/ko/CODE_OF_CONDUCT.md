@@ -1,6 +1,6 @@
 # 행동 강령
 
-언어: [English](../../../CODE_OF_CONDUCT.md) | 한국어 | [Español](../es/CODE_OF_CONDUCT.md) | [简体中文](../zh-CN/CODE_OF_CONDUCT.md) | [हिन्दी](../hi/CODE_OF_CONDUCT.md) | [Français](../fr/CODE_OF_CONDUCT.md)
+언어: [English](../../../CODE_OF_CONDUCT.md) | 한국어 | [Español](../es/CODE_OF_CONDUCT.md) | [Français](../fr/CODE_OF_CONDUCT.md) | [हिन्दी](../hi/CODE_OF_CONDUCT.md) | [简体中文](../zh-CN/CODE_OF_CONDUCT.md)
 
 이 문서는 0disoft가 소유한 저장소에 기본으로 적용되는 행동 강령입니다. 각 저장소에 별도의 `CODE_OF_CONDUCT.md`가 있다면, 해당 저장소의 행동 강령이 우선 적용됩니다.
 
@@ -33,7 +33,11 @@
 
 메인테이너는 프로젝트나 커뮤니티에 해가 되는 행동이 있을 경우 콘텐츠 삭제, 이슈 종료, 풀 리퀘스트 거절, 참여 제한, 사용자 차단 등의 조치를 취할 수 있습니다.
 
-신고는 해당 저장소의 메인테이너에게 보내면 됩니다. 저장소에서 비공개 신고 채널을 제공하는 경우, 해당 채널을 사용해 주세요.
+행동 강령 문제는 비공개로 신고해 주세요.
+
+1. 해당 행동이 GitHub의 이용 정책(Acceptable Use Policies)에도 위반된다면, https://github.com/contact/report-abuse 의 신고 양식으로 GitHub에 신고합니다. 이 경로는 GitHub가 처리하므로 신고가 메인테이너에게만 매달리지 않습니다.
+2. 그 밖의 경우에는 행동 강령 신고를 받을 비공개 연락 창구만 요청하는 이슈를 열어 주세요. 그 이슈에는 사건 경위, 관련 인물, 증거를 적지 마세요.
+3. 신고 대상이 메인테이너라면, 해당 신고가 당사자 손에 들어가지 않도록 GitHub 신고 양식을 사용해 주세요.
 
 신고는 선의에 따라 검토되며, 메인테이너는 관련된 사람들의 안전과 개인정보 보호를 우선합니다.
 

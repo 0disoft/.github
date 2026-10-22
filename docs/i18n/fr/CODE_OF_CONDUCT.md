@@ -1,6 +1,6 @@
 # Code de conduite
 
-Langue : [English](../../../CODE_OF_CONDUCT.md) | [한국어](../ko/CODE_OF_CONDUCT.md) | [Español](../es/CODE_OF_CONDUCT.md) | [简体中文](../zh-CN/CODE_OF_CONDUCT.md) | [हिन्दी](../hi/CODE_OF_CONDUCT.md) | Français
+Langue: [English](../../../CODE_OF_CONDUCT.md) | [한국어](../ko/CODE_OF_CONDUCT.md) | [Español](../es/CODE_OF_CONDUCT.md) | Français | [हिन्दी](../hi/CODE_OF_CONDUCT.md) | [简体中文](../zh-CN/CODE_OF_CONDUCT.md)
 
 Ce document constitue le code de conduite par défaut des dépôts appartenant à 0disoft. Si un dépôt possède son propre `CODE_OF_CONDUCT.md`, le code de conduite propre à ce dépôt prévaut.
 
@@ -33,7 +33,11 @@ Ce code de conduite s’applique aux discussions du dépôt, aux issues, aux pul
 
 Les mainteneurs peuvent supprimer du contenu, fermer des issues, refuser des pull requests, limiter la participation ou bloquer des utilisateurs lorsqu’un comportement nuit au projet ou à sa communauté.
 
-Les signalements doivent être envoyés au mainteneur du dépôt. Si le dépôt propose un canal de signalement privé, utilisez ce canal.
+Signalez les problèmes de conduite de manière privée :
+
+1. Si le comportement enfreint aussi les Politiques d’utilisation acceptable de GitHub, signalez-le à GitHub avec le formulaire Report abuse à l’adresse https://github.com/contact/report-abuse. Ce canal est géré par GitHub, le signalement ne dépend donc pas du mainteneur.
+2. Sinon, ouvrez une issue qui demande uniquement un canal de contact privé pour un signalement de conduite. Ne décrivez pas l’incident, les personnes concernées ni aucune preuve dans cette issue.
+3. Si le signalement concerne le mainteneur, utilisez le formulaire Report abuse afin que le signalement ne soit pas traité par la personne concernée.
 
 Les signalements seront examinés de bonne foi. Les mainteneurs donneront la priorité à la sécurité et à la confidentialité des personnes concernées.
 

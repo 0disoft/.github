@@ -1,6 +1,6 @@
 # 行为准则
 
-语言: [English](../../../CODE_OF_CONDUCT.md) | [한국어](../ko/CODE_OF_CONDUCT.md) | [Español](../es/CODE_OF_CONDUCT.md) | 简体中文 | [हिन्दी](../hi/CODE_OF_CONDUCT.md) | [Français](../fr/CODE_OF_CONDUCT.md)
+语言: [English](../../../CODE_OF_CONDUCT.md) | [한국어](../ko/CODE_OF_CONDUCT.md) | [Español](../es/CODE_OF_CONDUCT.md) | [Français](../fr/CODE_OF_CONDUCT.md) | [हिन्दी](../hi/CODE_OF_CONDUCT.md) | 简体中文
 
 这是适用于 0disoft 所有仓库的默认行为准则。如果某个仓库有自己的 `CODE_OF_CONDUCT.md`，则以该仓库的专用行为准则为准。
 
@@ -33,7 +33,11 @@
 
 当某些行为损害项目或社区时，维护者可以删除内容、关闭 issues、拒绝 pull requests、限制参与，或屏蔽用户。
 
-举报应发送给仓库维护者。如果仓库提供了私密举报渠道，请使用该渠道。
+请私下举报行为准则问题：
+
+1. 如果该行为同时违反 GitHub 的《可接受使用政策》，请使用 https://github.com/contact/report-abuse 的 Report abuse 表单向 GitHub 举报。该渠道由 GitHub 处理，举报不依赖维护者。
+2. 其他情况下，请打开一个只请求私下联系渠道的 issue。不要在该 issue 中描述事件经过、相关人员或任何证据。
+3. 如果举报涉及维护者本人，请使用 Report abuse 表单，以免举报落入当事人手中。
 
 举报将本着善意进行审查。维护者会优先保护相关人员的安全和隐私。
 
