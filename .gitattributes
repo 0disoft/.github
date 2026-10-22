@@ -1,0 +1,4 @@
+# The docs checker compares heading sequences and language bars line by line,
+# so keep every checkout byte-identical: LF in the repository and in the working
+# tree, on every platform.
+* text=auto eol=lf

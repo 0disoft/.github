@@ -1,0 +1,14 @@
+# The workflows pin actions to commit SHAs so a moved tag cannot swap the code
+# that runs with repository tokens. The cost of a pin is that it never moves on
+# its own, so let Dependabot open the update pull requests.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    groups:
+      actions:
+        patterns:
+          - "*"
